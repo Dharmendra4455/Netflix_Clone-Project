@@ -42,8 +42,9 @@ gap: 10px;
 
 #top_logo{
 display: flex;
-justify-content: space-around;
-
+justify-content:space-between;
+margin-left: 50px;
+margin-right: 20px;
 }
 
 #language{
